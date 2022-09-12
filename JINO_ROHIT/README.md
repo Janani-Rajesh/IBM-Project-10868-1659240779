@@ -1,1 +1,32 @@
+# My Profile
 
+NAME : 
+Jino Rohit
+
+
+ROLLNO	:	
+7179KCTKCTKCTKCTKCTKCTKCT19BCS075
+
+EMAIL	:	
+find.jinorohit@gmail.com
+
+MOBILE NUMBER	:	
+9791670767
+
+GENDER	:	
+M
+
+DATE OF BIRTH	:	
+25-06-2001
+
+DEGREE	:	
+Bachelor of Engineering/Technology
+
+BRANCH	:	
+Computer Science Engineering
+
+YEAR OF PASSING	:	
+2023
+
+COLLEGE	:	
+KUMARAGURU COLLEGE OF TECHNOLOGY
