@@ -1,0 +1,20 @@
+
+# My Profile
+
+ROLLNO : 7179KCTKCTKCTKCTKCTKCTKCT19BCS065
+
+EMAIL : pranav.rk02@gmail.com
+
+MOBILE NUMBER : 7904936748
+
+GENDER : M
+
+DATE OF BIRTH : 21-05-2002
+
+DEGREE : Bachelor of Engineering/Technology
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING	: 2023
+
+COLLEGE	: KUMARAGURU COLLEGE OF TECHNOLOGY
