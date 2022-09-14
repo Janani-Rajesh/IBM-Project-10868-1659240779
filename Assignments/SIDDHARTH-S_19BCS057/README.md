@@ -1,0 +1,20 @@
+
+# My Profile
+
+ROLLNO : 7179KCTKCTKCTKCTKCTKCTKCT19BCS057
+
+EMAIL : sssiddharth3030@gmail.com
+
+MOBILE NUMBER : 7708368839
+
+GENDER : M
+
+DATE OF BIRTH : 30-10-2001
+
+DEGREE : Bachelor of Engineering/Technology
+
+BRANCH : Computer Science Engineering
+
+YEAR OF PASSING	: 2023
+
+COLLEGE	: KUMARAGURU COLLEGE OF TECHNOLOGY
